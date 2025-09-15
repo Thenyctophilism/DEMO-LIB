@@ -1,0 +1,149 @@
+[
+  {
+    "id": 1,
+    "username": "ali124",
+    "password": "hashed_password_ali",
+    "email": "ali@example.com",
+    "full_name": "Sahel",
+    "delay_flag": 0,
+    "borrow_requests": [
+      {
+        "request_id": 101,
+        "book_id": 3,
+        "status": "approved",
+        "request_date": "2025-08-15",
+        "return_date": "2025-09-15"
+      },
+      {
+        "request_id": 102,
+        "book_id": 7,
+        "status": "rejected",
+        "request_date": "2025-08-20"
+      },
+      {
+        "request_id": "696f9310-b3b9-456a-bbe7-276ebfc22608",
+        "book_id": 2,
+        "status": "pending",
+        "request_date": "2025-09-09"
+      },
+      {
+        "request_id": "dac98dd0-4d0b-48a6-87af-b548718d2776",
+        "book_id": 1,
+        "status": "pending",
+        "request_date": "2025-09-14"
+      }
+    ],
+    "borrowed_books": [
+      {
+        "book_id": 3,
+        "title": "Pride and Prejudice",
+        "borrow_date": "2025-08-15",
+        "due_date": "2025-09-15"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "username": "sara88",
+    "password": "hashed_password_sara",
+    "email": "sara@example.com",
+    "full_name": "Sara Ahmadi",
+    "delay_flag": 1,
+    "borrow_requests": [
+      {
+        "request_id": 103,
+        "book_id": 12,
+        "status": "rejected",
+        "request_date": "2025-08-16"
+      },
+      {
+        "request_id": 104,
+        "book_id": 18,
+        "status": "approved",
+        "request_date": "2025-08-18",
+        "return_date": "2025-09-18"
+      }
+    ],
+    "borrowed_books": [
+      {
+        "book_id": 18,
+        "title": "Rubaiyat of Omar Khayyam",
+        "borrow_date": "2025-08-18",
+        "due_date": "2025-09-18"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "username": "reza_k",
+    "password": "hashed_password_reza",
+    "email": "reza@example.com",
+    "full_name": "Reza Karimi",
+    "delay_flag": 3,
+    "borrow_requests": [
+      {
+        "request_id": 105,
+        "book_id": 5,
+        "status": "approved",
+        "request_date": "2025-08-17",
+        "return_date": "2025-09-17"
+      }
+    ],
+    "borrowed_books": [
+      {
+        "book_id": 5,
+        "title": "One Hundred Years of Solitude",
+        "borrow_date": "2025-08-17",
+        "due_date": "2025-09-17"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "username": "niloofar77",
+    "password": "asd",
+    "email": "niloofar@example.com",
+    "full_name": "Niloofar Davani",
+    "delay_flag": 0,
+    "borrow_requests": [
+      {
+        "request_id": 106,
+        "book_id": 9,
+        "status": "rejected",
+        "request_date": "2025-08-19"
+      }
+    ],
+    "borrowed_books": []
+  },
+  {
+    "id": 5,
+    "username": "mahdi90",
+    "password": "hashed_password_mahdi",
+    "email": "mahdi@example.com",
+    "full_name": "Mahdi Hosseini",
+    "delay_flag": 2,
+    "borrow_requests": [
+      {
+        "request_id": 107,
+        "book_id": 1,
+        "status": "approved",
+        "request_date": "2025-08-14",
+        "return_date": "2025-09-14"
+      },
+      {
+        "request_id": 108,
+        "book_id": 14,
+        "status": "rejected",
+        "request_date": "2025-08-21"
+      }
+    ],
+    "borrowed_books": [
+      {
+        "book_id": 1,
+        "title": "The Great Gatsby",
+        "borrow_date": "2025-08-14",
+        "due_date": "2025-09-14"
+      }
+    ]
+  }
+]

@@ -1,0 +1,165 @@
+[
+  {
+    "id": 1,
+    "title": "Crime and Punishment",
+    "author": "Fyodor Dostoevsky",
+    "year": 1866,
+    "genre": "Novel",
+    "summary": "A psychological novel exploring guilt, morality, and redemption through the story of Raskolnikov, a student who commits murder."
+  },
+  {
+    "id": 2,
+    "title": "The Brothers Karamazov",
+    "author": "Fyodor Dostoevsky",
+    "year": 1880,
+    "genre": "Novel",
+    "summary": "A philosophical drama about faith, free will, and morality told through the lives of the three Karamazov brothers."
+  },
+  {
+    "id": 3,
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "year": 1813,
+    "genre": "Novel",
+    "summary": "A romantic and social commentary about Elizabeth Bennet navigating love, pride, and class distinctions."
+  },
+  {
+    "id": 4,
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "year": 1925,
+    "genre": "Novel",
+    "summary": "The tragic story of Jay Gatsby and his unrelenting love for Daisy, set in the Jazz Age of 1920s America."
+  },
+  {
+    "id": 5,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "year": 1960,
+    "genre": "Novel",
+    "summary": "A novel addressing racial injustice and childhood innocence in the American South, told through the eyes of Scout Finch."
+  },
+
+  {
+    "id": 6,
+    "title": "Beyond Good and Evil",
+    "author": "Friedrich Nietzsche",
+    "year": 1886,
+    "genre": "Philosophy",
+    "summary": "Challenges traditional morality and explores the concept of the 'will to power' as a driving force of human behavior."
+  },
+  {
+    "id": 7,
+    "title": "Meditations",
+    "author": "Marcus Aurelius",
+    "year": 180,
+    "genre": "Philosophy",
+    "summary": "A series of personal writings by the Roman emperor on Stoic philosophy and self-discipline."
+  },
+  {
+    "id": 8,
+    "title": "Republic",
+    "author": "Plato",
+    "year": -380,
+    "genre": "Philosophy",
+    "summary": "A dialogue on justice, politics, and the ideal state, featuring the famous allegory of the cave."
+  },
+  {
+    "id": 9,
+    "title": "Nicomachean Ethics",
+    "author": "Aristotle",
+    "year": -340,
+    "genre": "Philosophy",
+    "summary": "Explores the concept of virtue and the pursuit of happiness as the ultimate goal of human life."
+  },
+  {
+    "id": 10,
+    "title": "Being and Time",
+    "author": "Martin Heidegger",
+    "year": 1927,
+    "genre": "Philosophy",
+    "summary": "A foundational text in existential philosophy examining the nature of 'being' and human existence."
+  },
+
+  {
+    "id": 11,
+    "title": "1984",
+    "author": "George Orwell",
+    "year": 1949,
+    "genre": "Science Fiction",
+    "summary": "A dystopian novel about surveillance, totalitarianism, and the loss of individuality in a controlled society."
+  },
+  {
+    "id": 12,
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "year": 1932,
+    "genre": "Science Fiction",
+    "summary": "Depicts a technologically advanced society that sacrifices individuality and freedom for stability and pleasure."
+  },
+  {
+    "id": 13,
+    "title": "Foundation",
+    "author": "Isaac Asimov",
+    "year": 1951,
+    "genre": "Science Fiction",
+    "summary": "The epic tale of the collapse and rebirth of a galactic empire, built on the science of psychohistory."
+  },
+  {
+    "id": 14,
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "year": 1965,
+    "genre": "Science Fiction",
+    "summary": "The story of Paul Atreides on the desert planet Arrakis, combining politics, ecology, and prophecy."
+  },
+  {
+    "id": 15,
+    "title": "Neuromancer",
+    "author": "William Gibson",
+    "year": 1984,
+    "genre": "Science Fiction",
+    "summary": "A cyberpunk novel that shaped the genre, following a washed-up hacker in a high-tech dystopia."
+  },
+
+  {
+    "id": 16,
+    "title": "Divine Comedy",
+    "author": "Dante Alighieri",
+    "year": 1320,
+    "genre": "Poetry",
+    "summary": "An epic poem describing the journey through Hell, Purgatory, and Paradise as an allegory of the soul’s salvation."
+  },
+  {
+    "id": 17,
+    "title": "Leaves of Grass",
+    "author": "Walt Whitman",
+    "year": 1855,
+    "genre": "Poetry",
+    "summary": "A groundbreaking collection celebrating nature, democracy, and the human spirit."
+  },
+  {
+    "id": 18,
+    "title": "The Waste Land",
+    "author": "T. S. Eliot",
+    "year": 1922,
+    "genre": "Poetry",
+    "summary": "A modernist masterpiece reflecting the disillusionment of post-World War I society."
+  },
+  {
+    "id": 19,
+    "title": "Rubaiyat",
+    "author": "Omar Khayyam",
+    "year": 1120,
+    "genre": "Poetry",
+    "summary": "A collection of quatrains exploring fate, love, and the fleeting nature of life."
+  },
+  {
+    "id": 20,
+    "title": "Faust",
+    "author": "Johann Wolfgang von Goethe",
+    "year": 1808,
+    "genre": "Poetry",
+    "summary": "The tragic story of Faust, who makes a pact with the devil in pursuit of unlimited knowledge and pleasure."
+  }
+]
